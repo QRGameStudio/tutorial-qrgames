@@ -5,3 +5,4 @@ We are working on a really cool wiki... Please be patient.
 
 [Bulding the game](Building)
 
+[Using the multiplayer](Multiplayer.md)
